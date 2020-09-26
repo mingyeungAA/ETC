@@ -51,7 +51,7 @@
 ## 🍰MVC model 2
 
 - Controller와 view가 분리되어 있는 구현방식
-- 클라이언트의 요청으 먼저 servlet이 받는다. (=Controller역할을 servlet을 담당한다.)
+- 클라이언트의 요청을 먼저 servlet이 받는다. (=Controller역할을 servlet을 담당한다.)
 - 디자이너와 개발자의 분업이 가능하고 유지보수에 유리하다.
 - 설계에서 어려움을 겪을 수 있고, 개발 난이도가 높다.
 

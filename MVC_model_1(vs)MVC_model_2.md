@@ -18,7 +18,7 @@
 
     👉 데이터를 각 레이어 간에 전달하는 목적을 가지고 있으며, 객체의 속성과 getter, setter만 가지고 있다.
 
-  - Biz(Business Logit) 
+  - Biz(Business Logic) 
 
     👉 계산(연산) / 처리
 

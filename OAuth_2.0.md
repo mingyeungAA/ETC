@@ -75,12 +75,12 @@
 
 🍭**Authrization Code**
 
-	- resource owner가 authorization server에게 자신이 누구인지 인증을 받고 접근 권한을 부여한다.
-	- 그러면 authorization code를 발급받고, client에게 전달한다.
-	- client는 authorization server로 가서 access token으로 변환하게 된다.
-	- access token을 바로 client로 전달하지 않아 잠재적 유출을 방지한다.
-	- authorization server가 client와 resource server간의 중재 역할을 한다.
-	- 로그인 시에, 페이지 url에 `response_type=code` 로 설정한다.
+- resource owner가 authorization server에게 자신이 누구인지 인증을 받고 접근 권한을 부여한다.
+- 그러면 authorization code를 발급받고, client에게 전달한다.
+- client는 authorization server로 가서 access token으로 변환하게 된다.
+- access token을 바로 client로 전달하지 않아 잠재적 유출을 방지한다.
+- authorization server가 client와 resource server간의 중재 역할을 한다.
+- 로그인 시에, 페이지 url에 `response_type=code` 로 설정한다.
 
 <br>
 

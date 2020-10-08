@@ -9,15 +9,15 @@
 
 ## 🍰주요 4가지 객체(Roles)
 
-🍭**resource owner** (자원 소유자, 사용자) 
+**🍩resource owner** (자원 소유자, 사용자) 
 
 ​	👉 자원의 주인
 
-🍭**resource server** (자원 서버) 
+**🍩resource server** (자원 서버) 
 
 ​	👉 보호된 resource를 가지고 있는 서버, 액세스하려는 API.
 
-🍭**client** (클라이언트) 
+**🍩client** (클라이언트) 
 
 ​	👉 제 3의 서비스. 
 
@@ -25,9 +25,11 @@
 
 ​	👉 resource owner를 대신해서 resource에 접근하려는 서비스.
 
-🍭**authorization server** (권한 서버) 
+**🍩authorization server** (권한 서버) 
 
-​	👉 로그인을 통해 인증 후 권한을 부여하는 서버 (ex.구글 or 페이스북). 	👉 resource owner를 인증하고 권한을 얻은 후 access token을 발행하는 서버
+​	👉 로그인을 통해 인증 후 권한을 부여하는 서버 (ex.구글 or 페이스북). 
+
+​	👉 resource owner를 인증하고 권한을 얻은 후 access token을 발행하는 서버
 
 <br>
 

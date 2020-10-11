@@ -6,6 +6,7 @@
 - [URL? URI? URN?](https://github.com/mingyeungAA/ETC/blob/master/URL%26URI%26URN.md)
   - / 과 ? 의 차이?
 - [애자일 방법론](https://github.com/mingyeungAA/ETC/blob/master/%EC%95%A0%EC%9E%90%EC%9D%BC%EB%B0%A9%EB%B2%95%EB%A1%A0.md)
+- [디자인_패턴](https://github.com/mingyeungAA/ETC/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4.md)
 
 <br>
 
